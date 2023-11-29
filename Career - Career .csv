@@ -1,0 +1,82 @@
+Name,Age,Sex,10th%,Maths,Science,Social Studies,English,Hindi,Extracurricular Activities,Interests,Hobbies,Certifications
+Aryan,16,Male,95,92,93,94,95,96,"Debate, Music Club, Football","Science, Technology, Mathematics","Cricket, Reading, Programming",Excel Expert
+Aditi,15,Female,94,91,92,93,94,95,"Dance Club, Art Club, Dramatics","Arts, Literature, History","Painting, Dancing, Writing",Adobe Photoshop Certified
+Rajeev,17,Male,92,90,91,92,93,94,"Quiz Club, Science Olympiad, Chess Club","Math, Physics, Chemistry","Chess, Puzzles, Sudoku",Google Certified Educator (Level 1)
+Priya,16,Female,93,91,92,93,94,95,"Sports Club, Environmental Club, Social Service Club","Social Sciences, Environmental Studies, Community Development","Volunteering, Photography, Hiking","Microsoft Office Specialist (Word, Excel, PowerPoint)"
+Rohit,15,Male,90,88,89,90,91,92,"Music Club, Drama Club, Literature Club","Music, Theater, Writing","Singing, Playing Guitar, Creative Writing",Google Digital Skills for Entrepreneurs Certificate
+Anjali,16,Female,91,89,90,91,92,93,"Debate Club, Quiz Club, Public Speaking Club","Current Affairs, Politics, Economics","Debating, Public Speaking, Reading",Toastmasters International Certified Speaker
+Rahul,17,Male,95,93,94,95,96,97,"Sports Club, Science Olympiad, Computer Club","Robotics, Artificial Intelligence, Programming","Robotics, Coding, Playing Basketball",Cisco Certified Network Associate (CCNA)
+Priyanka,16,Female,94,92,93,94,95,96,"Dance Club, Art Club, Yoga Club","Art, Design, Fashion","Dancing, Painting, Sketching",Certified Fashion Designer
+Vivek,15,Male,92,90,91,92,93,94,"Music Club, Drama Club, Film Club","Music, Filmmaking, Photography","Playing Piano, Filmmaking, Photography",Adobe Premiere Pro Certified
+Sonia,16,Female,93,91,92,93,94,95,"Debate Club, Quiz Club, Model United Nations","International Relations, Diplomacy, Public Policy","Debating, Public Speaking, MUN",Harvard Model United Nations Delegate
+John Doe,15,M,85,90,88,82,85,80,"Football, Debate Club","Programming, Robotics","Reading, Playing Games",First Aid Certification
+Jane Doe,16,F,90,95,92,90,95,95,"Music Club, Volunteering","Photography, Environmentalism","Baking, Dancing",Swimming Certification
+Alice Smith,17,F,88,92,90,84,88,86,"Drama Club, Art Club","Acting, Painting","Drawing, Singing",CPR Certification
+David Brown,16,M,92,94,96,88,90,92,"Basketball Team, Science Club","Chemistry, Physics","Astronomy, Video Games",Robotics Certification
+Emily Jones,15,F,84,86,88,82,84,86,"Volleyball Team, Book Club","Reading, Writing","Creative Writing, Playing Volleyball",Writing Certification
+Michael Williams,16,M,90,92,94,86,90,88,"Chess Club, Math Club","Mathematics, Algorithms","Programming, Solving Puzzles",Math Olympiad Certification
+Sarah Johnson,17,F,86,88,90,84,86,88,"Dance Club, Choir","Music, Dancing","Singing, Choreography",Dance Certification
+Steven Taylor,16,M,94,96,98,90,92,94,"Football Team, Debate Club","Public Speaking, Current Events","Debating, Playing Sports",Debate Competition Winner
+Jessica Miller,15,F,88,90,92,86,88,90,"Art Club, Photography Club","Art, Photography","Photography, Painting",Photography Certification
+Daniel Davis,16,M,92,94,96,88,90,92,"Science Club, Computer Club","Programming, Web Development","Coding, Gaming",Web Development Certification
+Olivia Garcia,15,F,86,88,90,84,86,88,"Volleyball Team, Drama Club","Acting, Sports","Playing Volleyball, Acting",Drama Award
+Noah Hernandez,16,M,90,92,94,86,90,88,"Basketball Team, Science Club","Biology, Chemistry","Playing Basketball, Experimenting",Science Fair Winner
+Sophia Wilson,17,F,84,86,88,82,84,86,"Art Club, Book Club","Reading, Drawing","Painting, Creative Writing",Art Competition Winner
+Liam Thompson,16,M,92,94,96,88,90,92,"Football Team, Math Club","Mathematics, Statistics","Playing Football, Solving Math Problems",Math Competition Winner
+Isabella Moore,15,F,88,90,92,86,88,90,"Music Club, Photography Club","Music, Photography","Playing Piano, Taking Photos",Music Festival Participant
+Ethan Miller,16,M,92,94,96,88,90,92,"Chess Club, Computer Club","Programming, Artificial Intelligence","Coding, Playing Chess",Coding Competition Winner
+Mia Lopez,17,F,86,88,90,84,86,88,"Dance Club, Art Club","Dancing, Painting","Choreographing, Drawing",Dance Recital Choreographer
+Mason Davis,16,M,94,96,98,90,92,94,"Debate Club, Science Club","Physics, Astronomy","Debating, Stargazing",Astronomy Club President
+Emma Johnson,15,F,88,90,92,86,88,90,"Volleyball Team, Book Club","Writing, Literature","Playing Volleyball, Writing Stories",Creative Writing Award
+Logan Taylor,16,M,92,94,96,88,90,92,"Football Team, Math Club","Sports, Mathematics","Playing Football, Solving Puzzles",Math Olympiad Participant
+Olivia Garcia,15,F,86,88,90,84,86,88,"Volleyball Team, Drama Club","Acting, Sports","Playing Volleyball, Acting",Drama Award
+Noah Hernandez,16,M,90,92,94,86,90,88,"Basketball Team, Science Club","Biology, Chemistry","Playing Basketball, Experimenting",Science Fair Winner
+Sophia Wilson,17,F,84,86,88,82,84,86,"Art Club, Book Club","Reading, Drawing","Painting, Creative Writing",Art Competition Winner
+Liam Thompson,16,M,92,94,96,88,90,92,"Football Team, Math Club","Mathematics, Statistics","Playing Football, Solving Math Problems",Math Competition Winner
+Isabella Moore,15,F,88,90,92,86,88,90,"Music Club, Photography Club","Music, Photography","Playing Piano, Taking Photos",Music Festival Participant
+Ethan Miller,16,M,92,94,96,88,90,92,"Chess Club, Computer Club","Programming, Artificial Intelligence","Coding, Playing Chess",Coding Competition Winner
+Mia Lopez,17,F,86,88,90,84,86,88,"Dance Club, Art Club","Dancing, Painting","Choreographing, Drawing",Dance Recital Choreographer
+Mason Davis,16,M,94,96,98,90,92,94,"Debate Club, Science Club","Physics, Astronomy","Debating, Stargazing",Astronomy Club President
+Emma Johnson,15,F,88,90,92,86,88,90,"Volleyball Team, Book Club","Writing, Literature","Playing Volleyball, Writing Stories",Creative Writing Award
+Logan Taylor,16,M,92,94,96,88,90,92,"Football Team, Math Club","Sports, Mathematics","Playing Football, Solving Puzzles",Math Olympiad Participant
+Jack Taylor,16,M,91,93,95,87,91,93,"Football Team, Math Club","Sports, Mathematics","Playing Football, Solving Puzzles",Mathletes Team Captain
+radha,15,F,85,87,90,83,85,87,"Volleyball Team, Book Club, Model UN","Reading, Sports, Diplomacy","Playing Volleyball, Reading Books, Traveling","Volleyball Tournament Winner, Model UN Delegate"
+raju,16,M,91,93,95,87,91,93,"Basketball Team, Science Club, Robotics Club","Chemistry, Physics, Robotics","Playing Basketball, Building Robots","Science Fair Participant, Robotics Club President"
+bhagat,17,F,83,85,87,81,83,85,"Art Club, Drama Club, Choir","Acting, Painting, Singing","Drawing, Acting, Singing","Drama Performance Winner, Choir Soloist"
+siya,16,M,93,95,97,89,91,93,"Football Team, Math Club, Programming Club","Mathematics, Statistics","Playing Football, Solving Math Problems, Coding","Math Olympiad Finalist, Programming Club Founder"
+kalyani,15,F,87,89,91,85,87,89,"Music Club, Photography Club, Environmental Club","Music, Photography, Environmentalism","Playing Piano, Taking Photos, Volunteering","Photography Contest Winner, Environmental Club Volunteer"
+tejashwi,16,M,91,93,95,87,91,93,"Chess Club, Computer Club, Math Club","Programming, Artificial Intelligence, Mathematics","Coding, Playing Chess, Solving Math Problems","Hackathon Participant, Math Olympiad Finalist"
+vashisht,17,F,85,87,89,83,85,87,"Dance Club, Art Club, Film Club","Dancing, Painting, Filmmaking","Choreographing, Drawing, Acting","Dance Competition Finalist, Film Club Director"
+nidhi,16,M,93,95,97,89,91,93,"Debate Club, Science Club, Astronomy Club","Astronomy, Physics, Debate","Debating, Stargazing, Observing Celestial Objects","Astronomy Club President, Debate Competition Finalist"
+anushka,15,F,87,89,91,85,87,89,"Volleyball Team, Book Club, Creative Writing Club","Writing, Literature, Creative Writing","Playing Volleyball, Writing Stories, Reading","Creative Writing Competition Winner, Book Club President"
+aditya,16,M,91,93,95,87,91,93,"Football Team, Math Club, Science Club","Sports, Mathematics, Science","Playing Football, Solving Puzzles, Experimenting","Mathletes Team Captain, Science Fair Winner"
+ayush,14,Male,85,95,90,88,92,90,"Sports, Debate","Science, Technology","Cricket, Reading","Python, Excel"
+kriti,15,Female,90,92,95,90,93,92,"Music, Dance","Arts, Literature","Singing, Painting","Adobe Photoshop, Illustrator"
+rohan,14,Male,82,88,85,86,89,88,"Drama, Quizzing","History, Geography","Acting, Solving puzzles","Google Docs, Slides"
+geeta,15,Female,92,95,98,94,96,95,"Volunteering, Art","Environment, Social issues","Drawing, Photography","HTML, CSS"
+ram,14,Male,88,90,88,86,90,89,"Public speaking, Leadership","Politics, Current affairs","Debating, Model UN",Microsoft Office Suite
+liana,15,Female,95,98,96,94,97,96,"Creative writing, Photography","Writing, Storytelling","Photography, Blogging",Adobe Creative Suite
+yash,14,Male,85,88,86,84,88,86,"Programming, Robotics","Technology, Engineering","Coding, Building robots","Java, C++"
+Anjali,15,Female,90,92,94,92,94,93,"Sports, Music","Fitness, Health","Basketball, Playing the guitar","CPR, First aid"
+Saurabh,14,Male,82,85,82,80,84,82,"Environmental activism, Volunteering","Environment, Sustainability","Recycling, Community service",Environmental certification
+Tanya,15,Female,92,94,96,94,96,95,"Art, Design","Fashion, Interior design","Painting, Sketching",Fashion design certificate
+Ansh,16,Male,95,92,93,94,95,96,"Debate, Music Club, Football","Science, Technology, Mathematics","Cricket, Reading, Programming",Excel Expert
+Ananya K,15,Female,94,91,92,93,94,95,"Dance Club, Art Club, Dramatics","Arts, Literature, History","Painting, Dancing, Writing",Adobe Photoshop Certified
+Raj,17,Male,92,90,91,92,93,94,"Quiz Club, Science Olympiad, Chess Club","Math, Physics, Chemistry","Chess, Puzzles, Sudoku",Google Certified Educator (Level 1)
+Priya,16,Female,93,91,92,93,94,95,"Sports Club, Environmental Club, Social Service Club","Social Sciences, Environmental Studies, Community Development","Volunteering, Photography, Hiking","Microsoft Office Specialist (Word, Excel, PowerPoint)"
+Rohan,15,Male,90,88,89,90,91,92,"Music Club, Drama Club, Literature Club","Music, Theater, Writing","Singing, Playing Guitar, Creative Writing",Google Digital Skills for Entrepreneurs Certificate
+Aiana,16,Female,91,89,90,91,92,93,"Debate Club, Quiz Club, Public Speaking Club","Current Affairs, Politics, Economics","Debating, Public Speaking, Reading",Toastmasters International Certified Speaker
+Riyansh,17,Male,95,93,94,95,96,97,"Sports Club, Science Olympiad, Computer Club","Robotics, Artificial Intelligence, Programming","Robotics, Coding, Playing Basketball",Cisco Certified Network Associate (CCNA)
+Pooja,16,Female,94,92,93,94,95,96,"Dance Club, Art Club, Yoga Club","Art, Design, Fashion","Dancing, Painting, Sketching",Certified Fashion Designer
+Virat,15,Male,92,90,91,92,93,94,"Music Club, Drama Club, Film Club","Music, Filmmaking, Photography","Playing Piano, Filmmaking, Photography",Adobe Premiere Pro Certified
+Sanya ,16,Female,93,91,92,93,94,95,"Debate Club, Quiz Club, Model United Nations","International Relations, Diplomacy, Public Policy","Debating, Public Speaking, MUN",Harvard Model United Nations Delegate
+Alice,15,Female,95,98,96,97,96,95,"Debate, Model United Nations","Current affairs, politics, international relations","Reading, writing, public speaking","Excel, Google Suite"
+Bob,15,Male,92,94,93,95,94,93,"Football, basketball","Sports, fitness, teamwork","Playing sports, watching movies, playing video games",First Aid
+Charlie,16,Male,90,92,91,93,92,91,"Drama, music","Arts, music, performance","Acting, singing, playing instruments",CPR
+Daisy,16,Female,98,99,97,98,97,96,"Science club, chess club","Science, technology, mathematics","Experimenting, coding, solving puzzles",Robotics
+Emily,14,Female,94,95,94,96,95,94,"Art club, dance club","Art, dance, creativity","Drawing, painting, dancing","Adobe Photoshop, Illustrator"
+Frank,14,Male,91,92,90,93,92,91,"Volunteer work, community service","Helping others, making a difference","Reading, volunteering, spending time with friends",Leadership
+Grace,15,Female,96,97,96,97,96,95,"Writing club, book club","Literature, writing, storytelling","Reading, writing, creative writing",Writing
+Harry,15,Male,93,94,92,95,94,93,"Computer club, programming club","Technology, computers, programming","Coding, building websites, playing video games",Programming Languages
+Isabella,16,Female,97,98,97,98,97,96,"Photography club, environmental club","Photography, nature, environment","Taking pictures, hiking, camping",Photography
+Jack,16,Male,92,93,91,94,93,92,"Sports, fitness, health","Sports, fitness, nutrition","Playing sports, working out, eating healthy",Personal Training
